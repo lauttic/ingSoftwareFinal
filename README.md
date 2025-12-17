@@ -31,4 +31,5 @@ El proyecto utiliza Git para el control de versiones y fue subido a un repositor
 
 - Nombre y Apellido: Lautaro Nahuel Corceiro  
 - Materia: Ingeniería de Software
+- Fecha: 17 de Diciembre de 2025
 
